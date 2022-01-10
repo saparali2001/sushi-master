@@ -1,0 +1,229 @@
+{
+  
+  "products": [
+    {
+      "name": "dbhsxg",
+      "price": "fhbc",
+      "sostav": "fsbx f",
+      "categor": "Роллы",
+      "img": "https://img-global.cpcdn.com/recipes/52c15c93d0777c01/680x482cq70/kak-prighotovit-rolly-doma-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5-%D1%84%D0%BE%D1%82%D0%BE-%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B0.jpg",
+      "id": 1
+    },
+    {
+      "name": "Коко Кола",
+      "price": "60 с",
+      "sostav": "Без сахара",
+      "categor": "Напитки",
+      "img": "https://i-fakt.ru/wp-content/uploads/2010/09/fakty-koka-kola.jpg",
+      "id": 2
+    },
+    {
+      "name": "Пепси",
+      "price": "60",
+      "sostav": "полтарашка",
+      "categor": "Напитки",
+      "img": "data:image/jpeg;base64,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",
+      "id": 3
+    },
+    {
+      "name": "Фиус ти",
+      "price": "35",
+      "sostav": "0,5 л",
+      "categor": "Напитки",
+      "img": "https://svetofor.info/images/detailed/197/napitok-fusetea-pet-negazirovannyj-v-assortimente-05-l-1-sht-113.jpg",
+      "id": 4
+    },
+    {
+      "name": "Фанта",
+      "price": "60",
+      "sostav": "литровка",
+      "categor": "Напитки",
+      "img": "https://sierra.madanur.com/wp-content/uploads/2020/08/Fanta-1L.jpeg",
+      "id": 5
+    },
+    {
+      "name": "Лосось 32 г - 1 шт",
+      "price": "80сом",
+      "sostav": "Лосось, рис",
+      "categor": "Суши",
+      "img": "https://sushivesla.kg/assets/images/products/32/small/sushislososem-570x570.png",
+      "id": 6
+    },
+    {
+      "name": "Креветка Креветка 32 г - 1 шт",
+      "price": "90сом",
+      "sostav": "Креветка, нори, рис",
+      "categor": "Суши",
+      "img": "https://sushivesla.kg/assets/images/products/34/small/format-153.png",
+      "id": 7
+    },
+    {
+      "name": "Угорь 32 г - 1 шт",
+      "price": "110сом",
+      "sostav": "Угорь, нори, рис",
+      "categor": "Суши",
+      "img": "https://sushivesla.kg/assets/images/products/35/small/253158050003212.png",
+      "id": 8
+    },
+    {
+      "name": "Икура 35 г - 1 шт",
+      "price": "140сом",
+      "sostav": "Икра лососевая, нори, рис",
+      "categor": "Суши",
+      "img": "https://sushivesla.kg/assets/images/products/37/small/ikura-sushi.png",
+      "id": 9
+    },
+    {
+      "name": "Чукка 35 г - 1 шт",
+      "price": "80сом",
+      "sostav": "Соус ореховый, салат Чукка, нори, рис",
+      "categor": "",
+      "img": "https://sushivesla.kg/assets/images/products/39/small/3423532423.png",
+      "id": 10
+    },
+    {
+      "name": "Чукка 35 г - 1 шт",
+      "price": "80сом",
+      "sostav": "Соус ореховый, салат Чукка, нори, рис",
+      "categor": "Суши",
+      "img": "https://sushivesla.kg/assets/images/products/39/small/3423532423.png",
+      "id": 11
+    },
+    {
+      "name": "Спайси Лосось 35 г - 1 шт",
+      "price": "90сом",
+      "sostav": "Лосось, спайси соус, нори, рис",
+      "categor": "Суши",
+      "img": "https://sushivesla.kg/assets/images/products/40/small/spajs-sushi-s-lososem.jpg.png",
+      "id": 12
+    },
+    {
+      "name": "Спайси Тунец 35 г - 1 шт",
+      "price": "110сом",
+      "sostav": "Тунец, спайси соус, нори, рис",
+      "categor": "Суши",
+      "img": "https://sushivesla.kg/assets/images/products/43/small/1123-maguro-karami.png",
+      "id": 13
+    },
+    {
+      "name": "Краб 31 г - 1 шт",
+      "price": "70сом",
+      "sostav": "мясо краба (имитация), нори, рис",
+      "categor": "Суши",
+      "img": "https://sushivesla.kg/assets/images/products/45/small/thumb-179-goods-photo-big.png",
+      "id": 14
+    },
+    {
+      "name": "Калифорния с лососем",
+      "price": "300сом",
+      "sostav": "Лосось, майонез, тобико красная, огурец, нори, рис",
+      "categor": "Роллы",
+      "img": "https://sushivesla.kg/assets/images/products/26/small/thumb-42-goods-photo-big-removebg-preview.png",
+      "id": 15
+    },
+    {
+      "name": "Чиз лосось",
+      "price": "310сом",
+      "sostav": "Лосось, мягкий сыр, нори, р",
+      "categor": "Роллы",
+      "img": "https://sushivesla.kg/assets/images/products/84/small/thumb-269-goods-photo-big-removebg-preview.png",
+      "id": 16
+    },
+    {
+      "name": "Ролл Лайт",
+      "price": "290сом",
+      "sostav": "Лосось, мягкий сыр, огурец, нори, рис",
+      "categor": "Роллы",
+      "img": "https://sushivesla.kg/assets/images/products/90/small/thumb-275-goods-photo-big-removebg-preview.png",
+      "id": 17
+    },
+    {
+      "name": "Сет Хит запеченный 2.0",
+      "price": "950сом",
+      "sostav": "Ролл Хоккайдо, Ролл",
+      "categor": "",
+      "img": "https://sushivesla.kg/assets/images/products/21/small/5cdad0edaa6bd.png",
+      "id": 18
+    },
+    {
+      "name": "Сет Хит запеченный 2.0",
+      "price": "950сом",
+      "sostav": "Ролл Хоккайдо, Ролл",
+      "categor": "Сеты",
+      "img": "https://sushivesla.kg/assets/images/products/21/small/5cdad0edaa6bd.png",
+      "id": 19
+    },
+    {
+      "name": "Сет SMILE",
+      "price": "500сом",
+      "sostav": "Ролл Торпеда, Ролл Тихий, Ролл Киото",
+      "categor": "Сеты",
+      "img": "https://sushivesla.kg/assets/images/products/25/small/thumb-140-goods-photo-big.png",
+      "id": 20
+    },
+    {
+      "name": "Сет Остров",
+      "price": "900сом",
+      "sostav": "Ролл Лосось, Ролл Огурец, Ролл Эсколар, Ролл Окинава, Ролл Атлантический.",
+      "categor": "Сеты",
+      "img": "https://sushivesla.kg/assets/images/products/73/small/thumb-99-goods-photo-big-removebg-preview.png",
+      "id": 21
+    },
+    {
+      "name": "Суши Сет",
+      "price": "990сом",
+      "sostav": "Суши с угрем - 3 шт. Суши с лососем - 3 шт. Суши с тунцом - 3 шт. Суши с окунем - 2 шт. Суши с креветкой - 3 шт.",
+      "categor": "Сеты",
+      "img": "https://sushivesla.kg/assets/images/products/78/small/thumb-182-goods-photo-big-removebg-preview.png",
+      "id": 22
+    },
+    {
+      "name": "Васаби",
+      "price": "10сом",
+      "sostav": "Пищевая ценность на 100гр; Белки 5.0гр; Жиры 0.6гр; Углеводы 23.4гр; Калории 124.0 ккал",
+      "categor": "Дополнительно",
+      "img": "https://sushivesla.kg/assets/images/products/47/small/vasabi.png",
+      "id": 23
+    },
+    {
+      "name": "Соус Соевый Порционный",
+      "price": "50сом",
+      "sostav": "Пищевая ценность на 100гр; Белки 5.5гр; Жиры 0.0гр; Углеводы 24.5гр; Калории 120.0 ккал",
+      "categor": "Дополнительно",
+      "img": "https://sushivesla.kg/assets/images/products/48/small/soya-sous.png",
+      "id": 24
+    },
+    {
+      "name": "Соус Спайси",
+      "price": "50сом",
+      "sostav": "Пищевая ценность на 100гр; Белки 3.6гр; Жиры 54.5гр; Углеводы 5.2гр; Калории 526.0 ккал",
+      "categor": "Дополнительно",
+      "img": "https://sushivesla.kg/assets/images/products/49/small/spajsisous-400x400.png",
+      "id": 25
+    },
+    {
+      "name": "Имбирь",
+      "price": "50сом",
+      "sostav": "Пищевая ценность на 100гр; Белки 0.4гр; Жиры 0.3гр; Углеводы 8.0гр; Калории 8.0 ккал",
+      "categor": "Дополнительно",
+      "img": "https://sushivesla.kg/assets/images/products/50/small/imbir.png",
+      "id": 26
+    },
+    {
+      "name": "Ролл Тутти Фрутти",
+      "price": "210сом",
+      "sostav": "яблоко карамелизированное, топпинг клубничный, киви, банан, блин Тамаго, мягкий сыр",
+      "categor": "Десерты",
+      "img": "https://sushivesla.kg/assets/images/products/51/small/mim194kjatrcdd9kiz2hdq.png",
+      "id": 27
+    },
+    {
+      "name": "Хрустящее наслаждение",
+      "price": "210сом",
+      "sostav": "яблоко карамелизированное, крекер, топпинг шоколадный, банан, блин Тамаго, мягкий сыр",
+      "categor": "Десерты",
+      "img": "https://sushivesla.kg/assets/images/products/52/small/abdhdlgybqqilogreav8ow.png",
+      "id": 28
+    }
+  ]
+}
